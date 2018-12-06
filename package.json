@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Melonxx/-/issues"
   },
-  "homepage": "https://github.com/Melonxx/-#readme"
+  "homepage": "https://github.com/Melonxx/-#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
